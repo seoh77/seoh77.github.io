@@ -130,7 +130,7 @@ sup {
   top: -.5em; }
 
 a {
-  color: #cae4f0;
+  color: rgb(163, 190, 212);
   text-decoration: none;
   background-color: transparent; }
   a:hover {
@@ -4702,7 +4702,7 @@ a.close.disabled {
   vertical-align: text-top !important; }
 
 .bg-primary {
-  background-color: #cae4f0 !important; }
+  background-color: rgb(163, 190, 212) !important; }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
@@ -7405,7 +7405,7 @@ form .row:first-child .floating-label-form-group {
   align-items: center;
   justify-content: center;
   font-size: 2rem;
-  background-color: #cae4f0;
+  background-color: rgb(163, 190, 212);
   color: #fff;
   border-radius: 100%; }
 
